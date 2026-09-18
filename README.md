@@ -43,9 +43,6 @@ Decision-driven harness for coding agents, and humans. It implements a structure
 
 <hr>
 
-<h2 align="center">Say hi!</h2>
+## Say hi!
 
-<p align="center">
-  <a href="https://neve.md"><img src="https://img.shields.io/badge/neve.md-24292f?style=for-the-badge&logoColor=white" alt="neve.md" /></a>&nbsp;&nbsp;
-  <a href="mailto:hello@neve.md"><img src="https://img.shields.io/badge/email-57606a?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" /></a>
-</p>
+[![badge](https://shieldcn.dev/badge/neve.md.svg?variant=ghost&size=xs&font=geist&logo=lu%3ALink&labelOpacity=0.6)](https://neve.md) [![badge](https://shieldcn.dev/badge/hello@neve.md.svg?variant=ghost&size=xs&font=geist&logo=lu%3AMail&labelOpacity=0.6)](mailto:hello@neve.md)
