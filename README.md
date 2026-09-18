@@ -5,10 +5,10 @@
 |_| |_|\___| \_/ \___|
 </pre>
 
-<h2 align="center">Hi! I'm Neve, a Barcelona-based designer.</h2>
+<h2 align="center">Hi! I'm Neve, a Barcelona-based digital designer.</h2>
 
 <p align="center">
-  <samp>I'm a designer with an interest in creating system-based visual solutions, pretty images. I'm not a coder by trade, but I have a passion for system-based design and programming.</samp>
+  <samp>I love design, code, and the systems that connect them.</samp>
 </p>
 
 <hr>
