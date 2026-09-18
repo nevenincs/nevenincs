@@ -1,6 +1,6 @@
 # Hi! I'm Neve. 👋
 
-### I'm a designer with over a decade of experience making moving images, and little less, programming. I design, ideate about system-driven visual designs at neve.md.
+### I'm a designer with over a decade of experience making moving images, and, a little less, programming. I design and ideate system-driven visual designs at neve.md.
 
 
 #### I'm happy when
@@ -9,13 +9,14 @@
 happy("working with like-minded designers and critical thinkers")
 happy("building something exciting in Houdini")
 happy("learning something new")
-happy("when highly caffeinated")
+happy("highly caffeinated")
 ```
 
 #### Currently learning
 
 ```python
-procedural_animation("cavalry", "agentic design", "signal driven design", "catalan")
+procedural_animation("cavalry", "agentic design", "signal driven design")
+language("català")
 software_engineering("project management", "shipping", "packaging", "what it takes to turn code into a product")  
 ```
 
